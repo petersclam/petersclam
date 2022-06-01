@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Thai and Japanese
 - 💞️ 
 - 📫 you can reach me, via email
- as follows： yka677265gmail.com
+ as follows： yka677265@gmail.com
 
 
 
