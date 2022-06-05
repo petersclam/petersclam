@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Thai and Japanese
 
 
-The link for trapping my ebible：
+The link for grabbing my ebible：
 https://anonfiles.com/n9tbv7mcy5/eBook_bible_5_rar
 
  📫 you can reach me, via email
