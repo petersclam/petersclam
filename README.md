@@ -1,13 +1,16 @@
 - 👋 Hi, I’m Peter Lam
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Thai and Japanese
-
-
-The link for grabbing my ebible：
-https://anonfiles.com/n9tbv7mcy5/eBook_bible_5_rar
+- 🌱 I’m currently using Watt OS R12
+These commands will help for the beginners:
+sudo passwd root 
+sudo date --set 02/28/2023
+sudo apt install gdebi
 
  📫 you can reach me, via email
- as follows： yka677265@gmail.com
+ as follows： sasagetget2468@pronton.me
 
+Please also try vanilla OS
+from https://vanillaos.org/
 
-
+iso can be reached at
+https://distrowatch.com
