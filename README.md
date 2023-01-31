@@ -7,7 +7,7 @@ sudo date --set 02/28/2023
 sudo apt install gdebi
 
  📫 you can reach me, via email
- as follows： sasagetget2468@pronton.me
+ as follows： sasagetget2468@proton.me
 
 Please also try vanilla OS
 from https://vanillaos.org/
