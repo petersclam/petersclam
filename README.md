@@ -5,12 +5,15 @@ These commands will help for the beginners:
 🆕
 sudo passwd root 
 🆕
-sudo date --set 10/21/2023
+sudo date --set 11/29/2023
 🆕
 sudo apt install gdebi
 
  📫 you can reach me, via email
- as follows： sasagetget2468@proton.me
+ as follows： yka677265@gmail.com
+ This file last updated:
+ 29 Nov.2023
+
 
 Please also try vanilla OS
 from https://vanillaos.org/
