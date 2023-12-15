@@ -12,7 +12,7 @@ sudo apt install gdebi
  📫 you can reach me, via email
  as follows： yka677265@gmail.com
  This file last updated:
- 29 Nov.2023
+ 15 Dec.2023
 
 
 Please also try vanilla OS
