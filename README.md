@@ -5,7 +5,7 @@ These commands will help for the beginners:
 🆕
 sudo passwd root 
 🆕
-sudo date --set 11/29/2023
+sudo date --set 12/15/2023
 🆕
 sudo apt install gdebi
 
