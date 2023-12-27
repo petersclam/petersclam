@@ -5,14 +5,14 @@ These commands will help for the beginners:
 🆕
 sudo passwd root 
 🆕
-sudo date --set 12/15/2023
+sudo date --set 12/27/2023
 🆕
 sudo apt install gdebi
 
  📫 you can reach me, via email
  as follows： yka677265@gmail.com
  This file last updated:
- 15 Dec.2023
+ 27 Dec.2023
 
 
 Please also try vanilla OS
