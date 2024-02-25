@@ -41,7 +41,7 @@ Please also try vanilla OS from https://vanillaos.org/
 
 iso can be reached at https://distrowatch.com
 
-🌱 Using Watt OS R12 needs these commands :
+🌱 Using Watt OS R13 needs these commands :
 
 💲sudo passwd
 💲sudo apt install vlc
