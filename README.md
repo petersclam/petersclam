@@ -1,10 +1,10 @@
-👋 Hi, I’m Peter Lam
+👋 Hi, good morning, I am Peter Lam
 
 👀 I’m interested in Linux
 
 🌱 Using Watt OS R12 needs these commands : 🆕 sudo passwd root 🆕 sudo date --set mm/dd/2024 🆕 sudo apt install gdebi
 
-📫 you can reach me, via email as follows： yka677265@gmail.com This file last updated: 25Feb 2024
+📫 you can reach me, via email as follows： yka677265@gmail.com This file last updated: 04 Aug 2024
 
 📌
 https://distrowatch.com/
@@ -48,7 +48,7 @@ iso can be reached at https://distrowatch.com
 💲sudo apt install gdebi
 💲sudo apt install -f
 💲sudo apt update
-💲sudo apt install office
+💲sudo apt install libreoffice
 
 
 
