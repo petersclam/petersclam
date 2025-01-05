@@ -51,6 +51,38 @@ iso can be reached at https://distrowatch.com
 💲sudo apt install libreoffice
 
 
+📌
+https://distrowatch.com/
+
+📌
+https://cachyos.org/download/
+
+📌
+https://ubuntu.com/download
+
+📌
+https://neon.kde.org/download
+
+📌
+https://antixlinux.com/download/
+
+📌
+https://zorin.com/os/download/
+
+📌
+https://sparkylinux.org/download/
+
+📌4M linux:
+
+https://sourceforge.net/projects/linux4m/files/47.0/livecd/4MLinux-47.0-64bit.iso/download?use_mirror=zenlayer
+
+📌
+https://www.linuxliteos.com/download.php
+
+
+
+
+
 
 Download video via command line: https://itsfoss.com/download-youtube-linux/
 
