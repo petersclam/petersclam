@@ -10,11 +10,11 @@
 https://distrowatch.com/
 
 📌
-No.1 most popular OS:
+No.2 most popular OS:
 https://mxlinux.org/
 
 📌
-No.41 super small OS:
+super small OS:
 https://www.planetwatt.com/
 📌
 Forums of Watt OS:
