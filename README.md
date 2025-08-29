@@ -4,7 +4,7 @@
 
 🌱 Using Watt OS R12 needs these commands : 🆕 sudo passwd root 🆕 sudo date --set mm/dd/2024 🆕 sudo apt install gdebi
 
-📫 you can reach me, via email as follows： yka677265@gmail.com This file last updated: 11st July 2025
+📫 you can reach me, via email as follows： yka677265@gmail.com This file last updated: 29th Aug. 2025
 
 📌
 https://distrowatch.com/
