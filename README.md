@@ -25,6 +25,8 @@ Trisquel Linux(Super Speed OS)
 https://trisquel.info/
 https://trisquel.info/en/forum
 
+Zorin 18, you can run windows apps on this release
+
 📌 Cute fish Linux(beautiful OS)
 https://cutefish-ubuntu.github.io/
 
