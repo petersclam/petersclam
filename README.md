@@ -11,7 +11,7 @@
 
 💲sudo passwd 💲sudo apt install vlc 💲sudo apt install gdebi 💲sudo apt install -f 💲sudo apt update 💲sudo apt install libreoffice
 
-📫 you can reach me, via email as follows： yka677265@gmail.com This file last updated: 28th April, 2026
+📫 you can reach me, via email as follows： yka677265@gmail.com This file last updated: 24th June, 2026
 
 📌 https://distrowatch.com/
 
